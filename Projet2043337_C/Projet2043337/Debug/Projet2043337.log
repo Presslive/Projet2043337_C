@@ -1,0 +1,15 @@
+﻿  Examen02Fonctions.cpp
+C:\Users\Presslive\source\repos\Examen02Fonctions.cpp(10,20): error C2065: 'ofstream' : identificateur non déclaré
+C:\Users\Presslive\source\repos\Examen02Fonctions.cpp(10,30): error C2065: 'ofSortie' : identificateur non déclaré
+C:\Users\Presslive\source\repos\Examen02Fonctions.cpp(10,38): error C2182: 'ecrireEntête' : utilisation non conforme du type 'void'
+C:\Users\Presslive\source\repos\Examen02Fonctions.cpp(11,1): error C2448: 'ecrireEntête' : l'initialiseur de style fonction semble être une définition de fonction
+C:\Users\Presslive\source\repos\Examen02Fonctions.cpp(23,21): error C2065: 'ofstream' : identificateur non déclaré
+C:\Users\Presslive\source\repos\Examen02Fonctions.cpp(23,31): error C2065: 'ofSortie' : identificateur non déclaré
+C:\Users\Presslive\source\repos\Examen02Fonctions.cpp(23,39): error C2182: 'ecrirePiedPage' : utilisation non conforme du type 'void'
+C:\Users\Presslive\source\repos\Examen02Fonctions.cpp(24,1): error C2448: 'ecrirePiedPage' : l'initialiseur de style fonction semble être une définition de fonction
+  Examen02Test.cpp
+C:\Users\Presslive\source\repos\Examen02Test.cpp(33): error C2280: 'groupes::groupes(void)' : tentative de référencement d'une fonction supprimée
+C:\Users\Presslive\source\repos\Examen02Fonctions.h(34): message : le compilateur a généré 'groupes::groupes' ici
+C:\Users\Presslive\source\repos\Examen02Fonctions.h(34,1): message : 'groupes::groupes(void)' : la fonction a été supprimée implicitement, car 'groupes' a un membre de données 'groupes::Montant_Transaction' qualifié const non initialisé
+C:\Users\Presslive\source\repos\Examen02Fonctions.h(33): message : voir la déclaration de 'groupes::Montant_Transaction'
+  Génération de code en cours...
